@@ -28,8 +28,9 @@ sol = Solution()
 print(sol.mySqrt(x))
 
 
-
-# Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
+# Given a non-negative integer x,
+# return the square root of x rounded down to the nearest integer.
+# The returned integer should be non-negative as well.
 
 # You must not use any built-in exponent function or operator.
 
@@ -44,7 +45,8 @@ print(sol.mySqrt(x))
 
 # Input: x = 8
 # Output: 2
-# Explanation: The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.
+# Explanation: The square root of 8 is 2.82842...,
+# and since we round it down to the nearest integer, 2 is returned.
 
 # Constraints:
 
